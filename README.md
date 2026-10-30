@@ -64,5 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-abutly-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://abutly.com/
+Abutly is software for the building owner, small builder or party wall surveyor in England and Wales working under the Party Wall etc. Act 1996: free worksheets that count the notice dates for a party structure notice, a line of junction notice and an adjacent excavation notice, size the award and the schedule of condition from the rooms being recorded, and work the surveyor cost of the job, all with no account; and Abutly Pro, which keeps each address as a record with its notices, its award, its schedule of condition and the dates they were served. It covers party wall paperwork only. It does not find, list, rate or recommend a surveyor, it gives no legal advice, it does not reproduce the Act, and it does not serve Scotland or Northern Ireland.
+
+**Areas:** Company · Construction · LegalTech · PartyWall · UK
+
+## abutly-com on APIs.io
+
+Everything profiled for abutly-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/abutly-com/](https://apis.io/providers/abutly-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [abutly-com Dataset API](https://apis.io/apis/abutly-com/abutly-com-dataset-api/) — dataset
+- [abutly-com MCP API](https://apis.io/apis/abutly-com/abutly-com-mcp-api/) — The mcp API from abutly-com — 1 operation(s) for mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Abutly Com Agentic Access](https://apis.io/agentic-access/abutly-com/abutly-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [abutly-com API Rules](https://apis.io/rules/abutly-com/abutly-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Abutly Com Authentication](https://apis.io/security/abutly-com/abutly-com-authentication/)
+- [Abutly Com Domain Security](https://apis.io/security/abutly-com/abutly-com-domain-security/)
+- [Abutly Com Vulnerability Disclosure](https://apis.io/security/abutly-com/abutly-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://abutly.com/)
+- [Pricing](https://abutly.com/pricing)
+- [Support](https://abutly.com/support)
+- [Security](https://abutly.com/terms)
+- [Terms of service](https://abutly.com/terms)
+- [Privacy policy](https://abutly.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 41.7** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 44.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 31.6 |
+
+**Agent readiness 33.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/abutly-com/](https://apis.io/providers/abutly-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for abutly-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/abutly-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
